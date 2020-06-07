@@ -1,7 +1,18 @@
 # TAXA
-### Taxa is a WordPress Theme
+#### Taxa is a WordPress Theme
 
-#### If you want to add Newsletter form in sidebar widgets, then add this HTML code in sidebar widgets
+<br />
+
+### Main Featured:
+    5+ type posts developed, services, packages, places, members, blogs.
+    Dynamic sidebar.
+    Newsletter form with custom code.
+    Google Map Added in contact page
+    Contact Form development without using plugin
+
+<br />
+
+##### If you want to add Newsletter form in sidebar widgets, then add this HTML code in sidebar widgets
 ```
 <div id="mc_embed_signup">
     <form target="_blank" novalidate="true" action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01" method="get" class="form-inline">
@@ -24,7 +35,7 @@
 <p class="text-bottom">You can unsubscribe at any time</p>
 ```
 
-#### If you want to add Newsletter form in footer widgets, then add this HTML code in footer widgets
+##### If you want to add Newsletter form in footer widgets, then add this HTML code in footer widgets
 ```
 <div class="footer-newsletter" id="mc_embed_signup">	
     <form target="_blank" novalidate="true" action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01" method="get" class="form-inline">
