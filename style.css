@@ -1,0 +1,237 @@
+/*
+    Theme Name: Taxa
+    Version: 1.0
+    Author: Wasek Bellah
+    Author URI: https://wasekbellah.com
+    Description: This is a Taxa Theme. Template Taken from https://colorlib.com/wp/template/taxa/
+    License: colorlib
+    License URI: https://colorlib.com/wp/licence/
+*/
+
+.section_gap{
+    padding: 80px 0;
+}
+
+.img_full{
+    width: 100%;
+    height: auto;
+}
+
+/* Blog */
+.blog_post img{
+    width: 100%;
+    height: auto;
+}
+
+.blog_info .blog_meta li {
+    font: 300 14px/20px "Roboto", sans-serif;
+    color: #777777;
+    vertical-align: middle;
+    padding-bottom: 12px;
+}
+
+.blog_info .blog_meta li a {
+    font: 300 14px/20px "Roboto", sans-serif;
+    color: #777777;
+    vertical-align: middle;
+    padding-bottom: 0;
+    display: inline-block;
+}
+
+.blog_info .blog_meta li i {
+    color: #000000;
+    font-size: 16px;
+    font-weight: 600;
+    padding-left: 15px;
+    line-height: 20px;
+    vertical-align: middle;
+}
+
+.single-post-area blockquote {
+    margin-top: 20px;
+    margin-bottom: 30px;
+    padding: 24px 35px 24px 30px;
+    background-color: white;
+    box-shadow: -20.84px 21.58px 30px 0px rgba(176, 176, 176, 0.1);
+    font-size: 14px;
+    line-height: 24px;
+    color: #777;
+    font-style: italic;
+}
+
+.page-numbers .current{
+    color: #fff;
+    text-decoration: none;
+    border-color: #eee;
+    background: -webkit-linear-gradient(90deg, #ff2f8b 0%, #9035f9 100%);
+    background: -moz-linear-gradient(90deg, #ff2f8b 0%, #9035f9 100%);
+    background: -ms-linear-gradient(90deg, #ff2f8b 0%, #9035f9 100%);
+    background: -o-linear-gradient(90deg, #ff2f8b 0%, #9035f9 100%);
+    background: linear-gradient(90deg, #ff2f8b 0%, #9035f9 100%);
+}
+
+/* Post */
+.navigation-area .post-navigation{
+    width: 100%;
+}
+
+.navigation-area .screen-reader-text{
+    display: none;
+}
+
+.single-post-area .navigation-area .thumb img{
+    width: 60px;
+}
+
+/* Testimonial */
+.testi-item .star_list li{
+    color: #ffc000;
+    font-size: 14px;
+}
+
+/* Contact */
+div.wpcf7{
+    width: 100%;
+}
+
+/* Widgets Start */
+.single_sidebar_widget ul{
+    padding-left: 0;
+    list-style-type: none;
+}
+.single_sidebar_widget ul li{
+    padding-top: 15px;
+    border-bottom: 2px dotted #eee;
+    transition: all 0.3s ease 0s;
+    padding-bottom: 8px;
+    text-align: left;
+}
+.single_sidebar_widget ul li:hover{
+    color: #ff2f8b;
+    border-color: #ff2f8b;
+}
+.single_sidebar_widget ul li a{
+    font-size: 14px;
+    line-height: 20px;
+    margin-bottom: 4px;
+    display: inline-block;
+    color: #000;
+    font-weight: bold;
+}
+.single_sidebar_widget ul li a:hover{
+    color: #ff2f8b;
+}
+
+.single_sidebar_widget .lnr-cross{
+    display: none;
+}
+.single_sidebar_widget #searchsubmit{
+    position: absolute;
+    left: -99999px;
+}
+
+.single_sidebar_widget .cat-item a{
+    font-weight: inherit;
+    color: #777;
+}
+
+.single_sidebar_widget .tagcloud .tag-cloud-link{
+    display: inline-block;
+    border: 1px solid #eee;
+    background: #fff;
+    padding: 0px 13px;
+    margin-bottom: 8px;
+    transition: all 0.3s ease 0s;
+    color: #000000;
+    font-size: 12px;
+}
+.single_sidebar_widget .tagcloud .tag-cloud-link:hover{
+    color: #fff;
+    background: -webkit-linear-gradient(90deg, #ff2f8b 0%, #9035f9 100%);
+    background: -moz-linear-gradient(90deg, #ff2f8b 0%, #9035f9 100%);
+    background: -ms-linear-gradient(90deg, #ff2f8b 0%, #9035f9 100%);
+    background: -o-linear-gradient(90deg, #ff2f8b 0%, #9035f9 100%);
+    background: linear-gradient(90deg, #ff2f8b 0%, #9035f9 100%);
+}
+
+.single_sidebar_widget .post-date{
+    display: block;
+    font-size: 12px;
+    line-height: 21px;
+    margin-bottom: 0px;
+}
+
+.single_sidebar_widget .recentcomments .comment-author-link{
+    font-size: 12px;
+    line-height: 21px;
+    margin-bottom: 0px;
+}
+
+.single_sidebar_widget .recentcomments a{
+    display: block !important;
+    margin-top: 4px !important;
+}
+
+.single_sidebar_widget #wp-calendar{
+    width: 100%;
+}
+
+.single_sidebar_widget #wp-calendar #prev{
+    text-align: left;
+}
+.single_sidebar_widget #wp-calendar #prev a{
+    font-size: 16px;
+    line-height: 32px;
+    color: #777;
+    font-weight: bold;
+}
+.single_sidebar_widget #wp-calendar #prev a:hover{
+    color: #ff2f8b;
+}
+
+.blog_right_sidebar .newsletter_widget .input-group-text{
+    height: 38px;
+}
+.blog_right_sidebar .newsletter_widget #mc_embed_signup .form-control{
+    background: #ffffff00;
+    border-radius: 0px !important;
+}
+.blog_right_sidebar .newsletter_widget .bbtns{
+    border: none;
+}
+
+/* Footer Widgets */
+.single-footer-widget a{
+    color: #999!important;
+}
+.single-footer-widget ul li{
+    padding-top: 0;
+    border-bottom: none;
+    padding-bottom: 0;
+    color: #bbb;
+}
+.single-footer-widget ul li:hover{
+    color: #ff2f8b;
+}
+.single-footer-widget ul li a{
+    font-size: 14px;
+    line-height: 25px;
+    margin-bottom: 13px!important;
+    font-weight: normal;
+}
+.single-footer-widget ul li a:hover{
+    color: #ff2f8b!important;
+}
+
+.single-footer-widget .gallery .gallery-item{
+    overflow: hidden;
+    width: 25%!important;
+    margin: 0!important;
+}
+.single-footer-widget .gallery .gallery-item img{
+    width: 58px;
+    height: auto;
+    border: none!important;
+    margin: 5px;
+}
+/* Widgets Finish */
