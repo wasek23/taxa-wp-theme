@@ -10,6 +10,9 @@
 * Google Map Added in contact page
 * Contact Form development without using plugin
 
+### Technology Used:
+* WordPress, PHP, JavaScript, jQuery, HTML, CSS, Redux
+
 <br />
 
 ##### If you want to add Newsletter form in sidebar widgets, then add this HTML code in sidebar widgets
