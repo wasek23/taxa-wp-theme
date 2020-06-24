@@ -4,11 +4,11 @@
 <br />
 
 ### Main Featured:
-    5+ type posts developed, services, packages, places, members, blogs.
-    Dynamic sidebar.
-    Newsletter form with custom code.
-    Google Map Added in contact page
-    Contact Form development without using plugin
+* 5+ type posts developed, services, packages, places, members, blogs.
+* Dynamic sidebar.
+* Newsletter form with custom code.
+* Google Map Added in contact page
+* Contact Form development without using plugin
 
 <br />
 
